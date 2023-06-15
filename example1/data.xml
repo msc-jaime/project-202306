@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Edit_Mensaje SYSTEM "Edit_Mensaje.dtd">
+
+
+<blog>
+<article>
+<title></title>
+<contenct></contect>
+<created></created>
+<autor></autor>
+</article>
+
+<article>
+<title></title>
+<contenct></contect>
+<created></created>
+<autor></autor>
+</article>
+
+<article>
+<title></title>
+<contenct></contect>
+<created></created>
+<autor></autor>
+</article>
+
+<article>
+<title></title>
+<contenct></contect>
+<created></created>
+<autor></autor>
+</article>
+
+</blog>

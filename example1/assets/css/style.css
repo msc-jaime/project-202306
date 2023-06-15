@@ -1,0 +1,36 @@
+/*
+    Comentarios
+*/
+
+/*
+* {
+    border: 1px solid black;
+}
+*/
+
+h2 {
+    color: cyan;
+}
+
+
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.boton {
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.boton-principal {
+    background-color: azure;
+}
+
+.boton-secundario {
+    background-color:gray;
+}
+
+#val1 {
+    color: green;
+}
