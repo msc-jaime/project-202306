@@ -18,6 +18,11 @@ table, td, th {
     border: 1px solid black;
 }
 
+p.center {
+    text-align: center;
+    color: red;
+}
+
 .boton {
     padding: 5px 10px;
     text-decoration: none;

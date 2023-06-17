@@ -225,7 +225,7 @@
     <form action="register.asp" method="post">
         <div>
             <label for="fullName">Nombre completo:</label>
-            <input type="text" id="fullName" name="fullName">
+            <input type="text" id="fullName" name="fullName" placeholder="Pepito">
         </div>
         <div>
             <label for="age">Edad:</label>
@@ -271,8 +271,14 @@
             <label for="favcolor">Select your favorite color:</label>
             <input type="color" id="favcolor" name="favcolor">
         </div>
+        <div>
+            <label for="bdaymonth">Birthday (month and year):</label>
+            <input type="month" id="bdaymonth" name="bdaymonth">
+        </div>
+        <input type="hidden" id="custId" name="custId" value="3487">
         <input type="submit" value="Enviar form">
-        <input type="reset">
+        <!-- <input type="image" src="img_submit.gif" alt="Submit" width="48" height="48"> -->
+        <input type="reset" value="Reset">
         <input type="button" onclick="alert('Hello World!')" value="Click Me!">
     </form>
 </body>
